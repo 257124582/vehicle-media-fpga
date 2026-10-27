@@ -1,0 +1,51 @@
+{
+  "coordinate_format": "Q12 align corners; Q8 fractional weights; two rounded lerps",
+  "output_width": 640,
+  "output_height": 480,
+  "files": [
+    {
+      "file": "01_DAY.BMP",
+      "source_width": 320,
+      "source_height": 240,
+      "scaled_width": 640,
+      "scaled_height": 480,
+      "top_down": false,
+      "bytes": 230454,
+      "sha256": "10908633caa47306c53db830485bdece06210f7acde20f678a4beb5275079e3d",
+      "expected_rgb24_sum": 520535069
+    },
+    {
+      "file": "02_NIGHT.BMP",
+      "source_width": 800,
+      "source_height": 600,
+      "scaled_width": 640,
+      "scaled_height": 480,
+      "top_down": false,
+      "bytes": 1440054,
+      "sha256": "cb3a6a1301ac4bf1f704197ad311af0aefef0cf2d9ae4a86f9c0d27273fb0be1",
+      "expected_rgb24_sum": 4065064428
+    },
+    {
+      "file": "03_WARN.BMP",
+      "source_width": 1024,
+      "source_height": 768,
+      "scaled_width": 640,
+      "scaled_height": 480,
+      "top_down": false,
+      "bytes": 2359350,
+      "sha256": "c510baecfce279d975c33380615d5cfc85926795ec0fed6e91b5b8d2df2a772b",
+      "expected_rgb24_sum": 2921148692
+    },
+    {
+      "file": "04_PARK.BMP",
+      "source_width": 480,
+      "source_height": 640,
+      "scaled_width": 360,
+      "scaled_height": 480,
+      "top_down": false,
+      "bytes": 921654,
+      "sha256": "2e69d26903203d7cd7eb4d767ef6eaa08d41984cc033f6eb348b01eaa46ef0b2",
+      "expected_rgb24_sum": 1529727893
+    }
+  ]
+}

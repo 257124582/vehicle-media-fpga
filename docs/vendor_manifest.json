@@ -1,0 +1,117 @@
+[
+  {
+    "source_archive": "全国大学生嵌入式芯片与系统设计竞赛'2026选题指南_康芯.zip",
+    "source_entry": "lab_ex5_i2s/src/user_source/hdl_source/include/global_def.v",
+    "destination": "vendor\\include\\global_def.v",
+    "sha256": "04f854d7fe2f7816705b988ec59822fc258e4ed3a13529e36d0b9e6233a2682f",
+    "current_sha256": "e7f5658f4699de17d960d6d4217d2d1251c7e56af69b2b9c87da01211ea802d8",
+    "modified": true,
+    "change": "Public clock/refresh macros configured for 40 MHz and parenthesized to prevent SELF_REFRESH_INTERVAL from evaluating to zero; original retained in vendor/reference/global_def_125MHz.v. Encrypted payload untouched."
+  },
+  {
+    "source_archive": "全国大学生嵌入式芯片与系统设计竞赛'2026选题指南_康芯.zip",
+    "source_entry": "lab_ex5_i2s/src/user_source/hdl_source/include/sdr_as_ram.enc.v",
+    "destination": "vendor\\include\\sdr_as_ram.enc.v",
+    "sha256": "767dbdfbd83d42223b77dfa7deab42ce8216a8fd6f6cb41b7e7593d9a345ba57",
+    "current_sha256": "767dbdfbd83d42223b77dfa7deab42ce8216a8fd6f6cb41b7e7593d9a345ba57",
+    "modified": false
+  },
+  {
+    "source_archive": "全国大学生嵌入式芯片与系统设计竞赛'2026选题指南_康芯.zip",
+    "source_entry": "lab_ex5_i2s/src/user_source/hdl_source/include/sdr_init_ref.enc.v",
+    "destination": "vendor\\include\\sdr_init_ref.enc.v",
+    "sha256": "6da5945f4af793610d0d64c65c7e5d2d1c86ed4c11bc5fdeacd27eb03178b9f6",
+    "current_sha256": "6da5945f4af793610d0d64c65c7e5d2d1c86ed4c11bc5fdeacd27eb03178b9f6",
+    "modified": false
+  },
+  {
+    "source_archive": "全国大学生嵌入式芯片与系统设计竞赛'2026选题指南_康芯.zip",
+    "source_entry": "lab_ex5_i2s/src/user_source/hdl_source/include/sdr_wrrd.enc.v",
+    "destination": "vendor\\include\\sdr_wrrd.enc.v",
+    "sha256": "c7d7fe07d75f66aa88d9f986b3006319c995162434f104f9990664b374cdfdd2",
+    "current_sha256": "c7d7fe07d75f66aa88d9f986b3006319c995162434f104f9990664b374cdfdd2",
+    "modified": false
+  },
+  {
+    "source_archive": "全国大学生嵌入式芯片与系统设计竞赛'2026选题指南_康芯.zip",
+    "source_entry": "lab_ex5_i2s/src/user_source/hdl_source/hdmi1.4b_transmitter_core/hdmi_1_4b_transmitter_core_wrapper.enc.v",
+    "destination": "vendor\\hdmi1.4b_transmitter_core\\hdmi_1_4b_transmitter_core_wrapper.enc.v",
+    "sha256": "867e0b0bdd874bc383d00918c9e1be3fe01edf41f343b6a0d73e262776596a63",
+    "current_sha256": "867e0b0bdd874bc383d00918c9e1be3fe01edf41f343b6a0d73e262776596a63",
+    "modified": false
+  },
+  {
+    "source_archive": "全国大学生嵌入式芯片与系统设计竞赛'2026选题指南_康芯.zip",
+    "source_entry": "lab_ex5_i2s/src/user_source/hdl_source/hdmi_phy_warpper.v",
+    "destination": "vendor\\hdmi_phy_warpper.v",
+    "sha256": "416b082b0987001bdbc0a7e20a557cb8fb1dca34e25dc881e6d28a8cb3cf4300",
+    "current_sha256": "416b082b0987001bdbc0a7e20a557cb8fb1dca34e25dc881e6d28a8cb3cf4300",
+    "modified": false
+  },
+  {
+    "source_archive": "全国大学生嵌入式芯片与系统设计竞赛'2026选题指南_康芯.zip",
+    "source_entry": "lab_ex5_i2s/src/user_source/hdl_source/lane_lvds_10_1.v",
+    "destination": "vendor\\lane_lvds_10_1.v",
+    "sha256": "de9529321354f04837e051d0ec1681cf44783d4be3284703a788e081147500bc",
+    "current_sha256": "de9529321354f04837e051d0ec1681cf44783d4be3284703a788e081147500bc",
+    "modified": false
+  },
+  {
+    "source_archive": "全国大学生嵌入式芯片与系统设计竞赛'2026选题指南_康芯.zip",
+    "source_entry": "lab_ex5_i2s/src/user_source/hdl_source/SD/sd_card_top.v",
+    "destination": "vendor\\SD\\sd_card_top.v",
+    "sha256": "d5031b5b809a8df0a2c8cca194a511c5f74236e810cbe5e8436359f9e5f26a39",
+    "current_sha256": "d5031b5b809a8df0a2c8cca194a511c5f74236e810cbe5e8436359f9e5f26a39",
+    "modified": false
+  },
+  {
+    "source_archive": "全国大学生嵌入式芯片与系统设计竞赛'2026选题指南_康芯.zip",
+    "source_entry": "lab_ex5_i2s/src/user_source/hdl_source/SD/sd_card_cmd.v",
+    "destination": "vendor\\SD\\sd_card_cmd.v",
+    "sha256": "a1a50502afd4e8b238b0627cd5f204c04738e761d49ab48f33da35e22ba4a5fa",
+    "current_sha256": "a1a50502afd4e8b238b0627cd5f204c04738e761d49ab48f33da35e22ba4a5fa",
+    "modified": false
+  },
+  {
+    "source_archive": "全国大学生嵌入式芯片与系统设计竞赛'2026选题指南_康芯.zip",
+    "source_entry": "lab_ex5_i2s/src/user_source/hdl_source/SD/sd_card_sec_read_write.v",
+    "destination": "vendor\\SD\\sd_card_sec_read_write.v",
+    "sha256": "c245c07e3b0056808d86e06aad74348494e2a7050d493a3d4141d97ccf115203",
+    "current_sha256": "c245c07e3b0056808d86e06aad74348494e2a7050d493a3d4141d97ccf115203",
+    "modified": false
+  },
+  {
+    "source_archive": "全国大学生嵌入式芯片与系统设计竞赛'2026选题指南_康芯.zip",
+    "source_entry": "lab_ex5_i2s/src/user_source/hdl_source/SD/spi_master.v",
+    "destination": "vendor\\SD\\spi_master.v",
+    "sha256": "37f7a21144fa5cca3cc5c3b5f68a5ad40b3108336b600e45a1367734ac61403c",
+    "current_sha256": "37f7a21144fa5cca3cc5c3b5f68a5ad40b3108336b600e45a1367734ac61403c",
+    "modified": false
+  },
+  {
+    "source_archive": "全国大学生嵌入式芯片与系统设计竞赛'2026选题指南_康芯.zip",
+    "source_entry": "lab_ex5_i2s/src/user_source/hdl_source/IP/sys_pll.v",
+    "destination": "vendor\\IP\\sys_pll.v",
+    "sha256": "ea4ed09b2ff026b7b31eb76f51ef5afa388aa552e538e02d013cc8e7464ba563",
+    "current_sha256": "ea4ed09b2ff026b7b31eb76f51ef5afa388aa552e538e02d013cc8e7464ba563",
+    "modified": false
+  },
+  {
+    "source_archive": "全国大学生嵌入式芯片与系统设计竞赛'2026选题指南_康芯.zip",
+    "source_entry": "lab_ex5_i2s/src/user_source/hdl_source/IP/video_pll.v",
+    "destination": "vendor\\IP\\video_pll.v",
+    "sha256": "d5a2b3d3d0618d19619c36af0143f8bf9338415eef2eadd22456510ade9c6092",
+    "current_sha256": "d5a2b3d3d0618d19619c36af0143f8bf9338415eef2eadd22456510ade9c6092",
+    "modified": false
+  },
+  {
+    "source_archive": "设计的IP参考设计文档.zip",
+    "nested_archive": "APUG011_high_performance_sdram_read_write_reference_design_v1.2.zip",
+    "source_entry": "APUG011_high_performance_sdram_read_write_reference_design_v1.2/source_code/model/IS42s32200.v",
+    "destination": "vendor/simulation/IS42s32200.v",
+    "sha256": "6aad09c411b00e319ea6e7ff5a85453eb990532541ae368084406f78a276690b",
+    "current_sha256": "6aad09c411b00e319ea6e7ff5a85453eb990532541ae368084406f78a276690b",
+    "modified": false,
+    "usage": "simulation only; APUG011 SDRAM bus model, not synthesized"
+  }
+]

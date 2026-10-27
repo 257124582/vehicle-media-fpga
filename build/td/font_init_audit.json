@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "words_compared": 3200,
+  "bits_per_word": 16,
+  "bram_slices": 8,
+  "netlist_sha256": "5f629a2227a5566d30a4f1c9cf6b2e1b0a18dda1bf047d32873bfdb9924ce2db",
+  "font_sha256": "f7024d6962837884576aeb5a09f3395f82d903e2d51721745fa48fbb62e2e911",
+  "method": "Reconstruct all font words from eight mapped EG_PHY_BRAM INIT parameter banks and compare to RTL constants."
+}
